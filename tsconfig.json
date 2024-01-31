@@ -31,5 +31,6 @@
     "src/**/*.jsx",
     "src/**/*.svelte"
   ],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "references": [{ "path": "./tsconfig.node.json" }],
+  "esModuleInterop": true
 }
