@@ -7,3 +7,5 @@ describe('Polygon', () => {
     expect(polygon.toJSON()).toMatchSnapshot();
   });
 });
+
+// test
